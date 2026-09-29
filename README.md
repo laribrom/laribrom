@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="https://br.linkedin.com/in/larissa-bromonschenkel-guerra-704799362">
+<a href="https://br.linkedin.com/in/larissabromonschenkel">
   <img src="https://img.shields.io/badge/LinkedIn-EC4899?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
