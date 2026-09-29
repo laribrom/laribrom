@@ -20,7 +20,7 @@
 
 ## ♡ Sobre mim
 
-Oi! Eu sou a **Larissa** 🌷
+Oi! Eu sou a **Larissa** 
 
 Estou iniciando minha jornada em **desenvolvimento Front-end** e **UI/UX Design**, unindo código, criatividade e tecnologia para criar experiências digitais bonitas, intuitivas e funcionais.
 
